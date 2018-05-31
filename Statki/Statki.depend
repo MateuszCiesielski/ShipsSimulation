@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490251812 source:c:\users\mateusz\desktop\statki\main.cpp
+	<irrlicht.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1490253758 source:e:\katalog\studia\ii rok ii semestr\programowanie obiektowe\zombie_statki\statki\main.cpp
+	<irrlicht.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1490255572 source:c:\users\mateusz\desktop\studia\ii rok ii semestr\programowanie obiektowe\zombie_statki\statki\main.cpp
+	<irrlicht.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
